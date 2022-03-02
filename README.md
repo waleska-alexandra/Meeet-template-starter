@@ -1,6 +1,6 @@
 # Codewell - Meeet-Template-Starter 👋
 
-This is a solution to the <a href=https://www.codewell.cc/challenges/meeet-waitlist-template--60e05defa383e41090a3c273> Newsletter-Popup-Template on Codewell. </a>
+This is a solution to the <a href=https://www.codewell.cc/challenges/meeet-waitlist-template--60e05defa383e41090a3c273> Meeet-Template-Starter on Codewell. </a>
 
 ## Table of Contents
 
