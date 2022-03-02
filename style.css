@@ -1,0 +1,560 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+}
+
+body{
+    background-color: #013243;
+    font-size: 16px;
+    margin-left: 8.5rem;
+    width: 90%;
+    align-items: center;
+}
+
+ h1{
+    color: #32F5C8;
+    font-size: 6rem;
+    z-index: 1;
+    margin-top: 5rem;
+    
+}
+
+ .logo{
+    margin-top: 1rem;
+     
+}
+
+.presentation{
+    color: rgb(185, 183, 183);
+    margin-top: 2rem;
+    line-height: 1.5rem;
+}
+
+
+
+.button{
+    background-color: #32F5C8;
+    width: 13rem;
+    height: 3rem;
+    border-radius: 0.4rem;
+    margin-top: 2rem;
+    font-weight: 900;
+    font-size: 1rem;
+}
+
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 3rem;
+    width: 15rem;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(185, 183, 183);
+}
+
+
+div img{
+    position: absolute;
+    left: 50rem;
+    
+}
+
+.avatar-3{
+    top: 6rem;
+    left: 2rem;
+    z-index: -1;
+}
+
+.avatar-2{
+    top: 2rem;
+    left: 55rem; 
+}
+
+.avatar-5{
+    top: 4.5rem;
+    left: 43rem; 
+    z-index: -1;
+}
+
+.avatar-1{
+    bottom: 21rem;
+    left: 54rem;
+    z-index: -1;
+}
+
+.avatar-4{
+    bottom: 2rem;
+    left: 55rem;
+
+}
+
+
+
+@media only screen and (min-width: 950px) and (max-width:1050px){
+    body{
+        background-color: #013243;
+        font-size: 16px;
+        margin-left: 8.5rem;
+        width: 90%;
+        align-items: center;
+    }
+    
+     h1{
+        color: #32F5C8;
+        font-size: 6rem;
+        z-index: 1;
+        margin-top: 5rem;
+        
+    }
+    
+     .logo{
+        margin-top: 1rem;
+         
+    }
+    
+    .presentation{
+        color: rgb(185, 183, 183);
+        margin-top: 2rem;
+        line-height: 1.5rem;
+    }
+    
+    
+    
+    .button{
+        background-color: #32F5C8;
+        width: 13rem;
+        height: 3rem;
+        border-radius: 0.4rem;
+        margin-top: 2rem;
+        font-weight: 900;
+        font-size: 1rem;
+    }
+    
+    footer{
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        margin-top: 3rem;
+        width: 15rem;
+    }
+    
+    a{
+        text-decoration: none;
+        color: rgb(185, 183, 183);
+    }
+    
+    
+    div img{
+        position: absolute;
+        left: 50rem;
+        
+    }
+    
+    .avatar-3{
+        top: 6rem;
+        left: 2rem;
+        z-index: -1;
+    }
+    
+    .avatar-2{
+        top: 2rem;
+        left: 55rem; 
+    }
+    
+    .avatar-5{
+        top: 4.5rem;
+        left: 39rem; 
+        z-index: -1;
+    }
+    
+    .avatar-1{
+        top: 15rem;
+        left: 49rem;
+        z-index: -1;
+    }
+    
+    .avatar-4{
+        bottom: 2rem;
+        left: 50rem;
+        height: 15rem;
+    
+    }
+}
+
+
+
+@media only screen and (min-width: 701px) and (max-width:950px){
+    body{
+        background-color: #013243;
+        font-size: 16px;
+        margin-left: 8rem;
+        width: 90%;
+        align-items: center;
+    }
+    
+     h1{
+        color: #32F5C8;
+        font-size: 6rem;
+        z-index: 1;
+        margin-top: 5rem;
+        
+    }
+    
+     .logo{
+        margin-top: 1rem;
+         
+    }
+    
+    .presentation{
+        color: rgb(185, 183, 183);
+        margin-top: 2rem;
+        line-height: 2rem;
+        font-size: 1.3rem;
+    }
+    
+    
+    
+    .button{
+        background-color: #32F5C8;
+        width: 15rem;
+        height: 5rem;
+        border-radius: 0.4rem;
+        margin-top: 2rem;
+        font-weight: 900;
+        font-size: 1rem;
+    }
+    
+    footer{
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        margin-top: 3rem;
+        width: 15rem;
+    }
+    
+    
+    div img{
+        position: absolute;
+        left: 50rem;
+        
+    }
+    
+    .avatar-3{
+        top: 6rem;
+        left: 2rem;
+        z-index: -1;
+    }
+    
+    .avatar-2{
+        top: 2rem;
+        left: 50rem; 
+    }
+    
+    .avatar-5{
+        top: 4.5rem;
+        left: 39rem; 
+        z-index: -1;
+    }
+    
+    .avatar-1{
+        top: 18rem;
+        left: 49rem;
+        z-index: -1;
+    }
+    
+    .avatar-4{
+        bottom: 0rem;
+        left: 40rem;
+        height: 13rem;
+    
+    }
+}
+
+@media only screen and (min-width: 650px) and (max-width:800px){
+    body{
+        background-color: #013243;
+        font-size: 16px;
+        margin-left: 7rem;
+        width: 90%;
+        align-items: center;
+        
+    }
+    
+     h1{
+        color: #32F5C8;
+        font-size: 6rem;
+        z-index: 1;
+        margin-top: 10rem;
+        
+    }
+    
+     .logo{
+        margin-top: 1rem;
+         
+    }
+    
+    .presentation{
+        color: rgb(185, 183, 183);
+        margin-top: 2rem;
+        line-height: 2.1rem;
+        font-size: 1.5rem;
+    }
+    
+    
+    
+    .button{
+        background-color: #32F5C8;
+        width: 15rem;
+        height: 5rem;
+        border-radius: 0.4rem;
+        margin-top: 2rem;
+        font-weight: 900;
+        font-size: 1rem;
+    }
+    
+    footer{
+        position: absolute;
+        bottom: -5rem;
+        width: 300px;
+    }
+
+    footer a{
+        font-size: 1.2rem;
+    }
+    
+    
+    div img{
+        position: absolute;
+        left: 50rem;
+        
+    }
+    
+    .avatar-3{
+        top: 6rem;
+        left: 2rem;
+        z-index: -1;
+    }
+    
+    .avatar-2{
+        top: 2rem;
+        left: 50rem; 
+    }
+    
+    .avatar-5{
+        top: 4.5rem;
+        left: 39rem; 
+        z-index: -1;
+    }
+    
+    .avatar-1{
+        top: 25rem;
+        left: 47rem;
+        z-index: -1;
+    }
+    
+    .avatar-4{
+        top: 35rem;
+        left: 40rem;
+        height: 13rem;
+    
+    }
+
+}
+
+
+
+
+
+@media only screen and  (max-width:650px){
+    body{
+        margin-top: 2rem;
+        margin-left: 4rem;
+        
+        
+    }
+
+    h1{
+        font-size: 3rem;
+        margin-top: 10rem;
+        max-width: 300px;
+    }
+
+    .avatar-3{
+        top: 6rem;
+        left: 2rem;
+        z-index: -1;
+        }
+    
+        .avatar-2{
+            top: 2rem;
+            left: 25rem; 
+            height: 130px;
+        }
+    
+        .avatar-5{
+            top: 11.5rem;
+            left: 19rem; 
+            z-index: -1;
+            height: 90px;
+        }
+    
+        .avatar-1{
+            top: 16rem;
+            left: 30rem;
+            z-index: -1;
+            height: 80px;
+        }
+    
+        .avatar-4{
+            top: 30rem;
+            left: 25rem;
+            height: 170px;
+    
+        }
+
+    .presentation{
+        font-size: 1rem;
+        max-width:220px;
+        line-height: 1.2rem;
+    }
+
+    .button{
+        background-color: #32F5C8;
+        width: 15rem;
+        height: 5rem;
+        border-radius: 0.4rem;
+        margin-top: 2rem;
+        font-weight: 900;
+        font-size: 1rem;
+    }
+
+    footer{
+        position: absolute;
+        bottom: 2rem;
+        font-size: 1.2rem;
+        max-width: 300px;
+    }
+
+    .br1{
+        display: none;
+    }
+
+}
+
+
+@media only screen and (max-width:450px){
+    body{
+        margin-top: 2rem;
+        margin-left: 2rem;
+        
+        
+    }
+
+    h1{
+        font-size: 3rem;
+        margin-top: 10rem;
+        max-width: 300px;
+    }
+
+    .avatar-3{
+        top: 9rem;
+        left: 3rem;
+        height: 15%;
+        z-index: -1;
+    }
+
+    .avatar-2{
+        top: 8.5rem;
+        left: 14rem;
+        height: 150px;
+        z-index: -1;
+    }
+
+    .presentation{
+        font-size: 1rem;
+        max-width:220px;
+        line-height: 1.2rem;
+    }
+
+    .button{
+        background-color: #32F5C8;
+        width: 15rem;
+        height: 5rem;
+        border-radius: 0.4rem;
+        margin-top: 2rem;
+        font-weight: 900;
+        font-size: 1rem;
+    }
+
+    footer{
+        position: absolute;
+        bottom: 0rem;
+        font-size: 1.2rem;
+        max-width: 300px;
+    }
+
+    .br1, .avatar-1, .avatar-4, .avatar-5{
+        display: none;
+    }
+}
+
+@media only screen and (max-width:350px){
+    body{
+        margin-top: 2rem;
+        margin-left: 2rem;
+        
+    }
+
+    h1{
+        font-size: 2.5rem;
+        margin-top: 10rem;
+        max-width: 300px;
+    }
+
+    .avatar-3{
+        top: 10rem;
+        left: 3rem;
+        height: 90px;
+        z-index: -1;
+    }
+
+    .avatar-2{
+        top: 10rem;
+        left: 13rem;
+        height: 130px;
+        z-index: -1;
+    }
+
+    .presentation{
+        font-size: 1rem;
+        max-width:220px;
+        line-height: 1.2rem;
+    }
+
+    .button{
+        background-color: #32F5C8;
+        width: 15rem;
+        height: 5rem;
+        border-radius: 0.4rem;
+        margin-top: 2rem;
+        font-weight: 900;
+        font-size: 1rem;
+    }
+
+    footer{
+        position: absolute;
+        bottom: 0rem;
+        font-size: 1.2rem;
+        max-width: 300px;
+    }
+
+    .br1, .avatar-1, .avatar-4, .avatar-5{
+        display: none;
+    }
+}
