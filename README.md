@@ -4,12 +4,12 @@ This is a solution to the <a href=https://www.codewell.cc/challenges/meeet-waitl
 
 ## Table of Contents
 
-* <a href=https://github.com/waleska-alexandra/Newsletter-Popup-Template/blob/main/README.md#screenshot>Screenshot </a>
-* <a href=https://github.com/waleska-alexandra/Newsletter-Popup-Template/blob/main/README.md#links>Links </a>
-* <a href=https://github.com/waleska-alexandra/Newsletter-Popup-Template/blob/main/README.md#process>What is the process? </a>
+* <a href=https://github.com/waleska-alexandra/meeet-template-starter/blob/main/README.md#screenshot>Screenshot </a>
+* <a href=https://github.com/waleska-alexandra/meeet-template-starter/blob/main/README.md#links>Links </a>
+* <a href=https://github.com/waleska-alexandra/meeet-template-starter/blob/main/README.md#process>What is the process? </a>
 
 ## Screenshot
-![screenshot project codewell](https://github.com/waleska-alexandra/Newsletter-Popup-Template/blob/main/capture%20%20newsletter.png)
+![screenshot project codewell](https://github.com/waleska-alexandra/meeet-template-starter/blob/main/screenshot.png)
 
 
 ## Links
